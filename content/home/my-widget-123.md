@@ -2,7 +2,7 @@
 widget: people
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 150
 title: test
 active: true
 design:
